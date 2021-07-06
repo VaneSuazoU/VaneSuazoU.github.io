@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Saira+Condensed:wght@100&family=Saira+Extra+Condensed:wght@200&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  display: flex;
+  font-family: "Saira Condensed", sans-serif;
+  color: black;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+}

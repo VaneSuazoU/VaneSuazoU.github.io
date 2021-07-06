@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Saira+Condensed:wght@100&family=Saira+Extra+Condensed:wght@200&display=swap");
+
+.profileImg {
+  width: 25vw;
+  border-radius: 100%;
+}
+section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+p {
+  background: rgba(193, 191, 251, 0.6);
+  border-radius: 8%;
+  width: 70%;
+  font-size: 150%;
+  height:30%;
+}
